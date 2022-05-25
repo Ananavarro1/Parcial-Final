@@ -4,5 +4,5 @@ class Persona():
     nif:int
     Fecha:int
 
-    
+
 
