@@ -4,5 +4,3 @@ class Jugador(Persona):
 
     numFed:int
 
-    
-
